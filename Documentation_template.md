@@ -1,8 +1,8 @@
 # ML Challenge 2026: Business Entity Resolution Solution
 
-**Team Name:** BlockMatch  
-**Team Members:** Entity Resolution Team  
-**Submission Date:** 2026-09-27
+**Team Name:** Challengers  
+**Team Members:** Suggala Sai Kowshik, Manikanta Reddy Bhimireddy, Macharla Sahith, Kushendra Unnam 
+**Submission Date:** 02-10-2026
 
 ---
 
@@ -94,7 +94,3 @@ python src/pipeline.py --train-dir dataset/train --test-dir dataset/test --outpu
 ### B. Additional Results
 
 Validation on held-out training data showed F_0.5 optimized at threshold ~0.5 after class-weighted XGBoost training. The blocking stage achieved a candidate-to-entity ratio of ~500:1, effectively reducing the comparison space by >99% while maintaining recall.
-
----
-
-**Note:** Sections modified according to approach while maintaining clarity and technical depth.
