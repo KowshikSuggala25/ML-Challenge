@@ -1,7 +1,9 @@
 # ML Challenge 2026: Business Entity Resolution Solution
 
 **Team Name:** Challengers  
-**Team Members:** Suggala Sai Kowshik, Manikanta Reddy Bhimireddy, Macharla Sahith, Kushendra Unnam 
+
+**Team Members:** Suggala Sai Kowshik, Manikanta Reddy Bhimireddy, Macharla Sahith, Kushendra Unnam
+
 **Submission Date:** 02-10-2026
 
 ---
